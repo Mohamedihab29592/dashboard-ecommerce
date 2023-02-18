@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "583527128111",
+    "project_id": "kory-care",
+    "storage_bucket": "kory-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583527128111:android:8918ea1f7c20097832bada",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583527128111-v4tvlucr87horr9c40fcncga5cb0a7e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChy1LwrL26Dxfmaol8DBBItgcjiy0bn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583527128111-gcb0634a3co1p1vh027fna2856oka94d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583527128111-4duig5s4qeukptto3u8ljh2qn7dus0mh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583527128111:android:d5c1d4985b9d1dbf32bada",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583527128111-tj0j94g9fe6v4ihpn9cp712uj1jo57uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grocery_app",
+            "certificate_hash": "5ceb9b5aa2efda4521e41a1bb4e03f291eafdbff"
+          }
+        },
+        {
+          "client_id": "583527128111-v4tvlucr87horr9c40fcncga5cb0a7e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChy1LwrL26Dxfmaol8DBBItgcjiy0bn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583527128111-gcb0634a3co1p1vh027fna2856oka94d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583527128111-4duig5s4qeukptto3u8ljh2qn7dus0mh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

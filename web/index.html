@@ -55,5 +55,26 @@
       });
     });
   </script>
+  </script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-storage.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-analytics.js"></script>
+
+  <script>
+  const firebaseConfig = {
+  apiKey: "AIzaSyDwPwPsP7HcQXKURZVslY5O0sR7EbEIqLA",
+  authDomain: "kory-care.firebaseapp.com",
+  projectId: "kory-care",
+  storageBucket: "kory-care.appspot.com",
+  messagingSenderId: "583527128111",
+  appId: "1:583527128111:web:332ba334db0c93c132bada",
+  measurementId: "G-B30GGBMPH3"
+};
+
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+  </script>
 </body>
 </html>
