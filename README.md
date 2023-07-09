@@ -1,19 +1,7 @@
 # dashboard
 
-A new Flutter project.
+An application developed using Flutter and firebase database. It supports Android and IOS and web. It allows the Owner to add products or remove it and edit also he can add offers and view the orders that user ordered in the mobile application.
 
-## Getting Started
+## Yaml
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# dashboard-ecommerce
-# dashboard
-# dashboard
+![yaml2](https://github.com/Mohamedihab29592/dashboard-ecommerce/assets/64233832/d68eebe8-114f-48fb-bf53-480053ce06d6)
