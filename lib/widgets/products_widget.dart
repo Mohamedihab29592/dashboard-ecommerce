@@ -144,11 +144,7 @@ class _ProductWidgetState extends State<ProductWidget> {
                               color: color),
                         )),
 
-                    /*TextWidget(
-                      text:  '1Kg',
-                      color: color,
-                      textSize: 18,
-                    ),*/
+
                   ],
                 ),
                 const SizedBox(
